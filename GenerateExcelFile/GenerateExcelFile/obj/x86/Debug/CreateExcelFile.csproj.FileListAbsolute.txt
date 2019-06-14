@@ -1,0 +1,17 @@
+C:\Program Files\Bootloader\repos\obj\x86\Debug\CreateExcelFile.csprojAssemblyReference.cache
+C:\Program Files\Bootloader\repos\obj\x86\Debug\CreateExcelFile.csproj.CoreCompileInputs.cache
+C:\Program Files\Bootloader\repos\bin\Debug\CreateExcelFile.exe
+C:\Program Files\Bootloader\repos\bin\Debug\CreateExcelFile.pdb
+C:\Program Files\Bootloader\repos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Program Files\Bootloader\repos\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Program Files\Bootloader\repos\obj\x86\Debug\CreateExcelFile.csproj.CopyComplete
+C:\Program Files\Bootloader\repos\obj\x86\Debug\CreateExcelFile.exe
+C:\Program Files\Bootloader\repos\obj\x86\Debug\CreateExcelFile.pdb
+C:\Program Files\Bootloader\repos\GenerateExcelFile\GenerateExcelFile\bin\Debug\CreateExcelFile.exe.config
+C:\Program Files\Bootloader\repos\GenerateExcelFile\GenerateExcelFile\bin\Debug\CreateExcelFile.exe
+C:\Program Files\Bootloader\repos\GenerateExcelFile\GenerateExcelFile\bin\Debug\CreateExcelFile.pdb
+C:\Program Files\Bootloader\repos\GenerateExcelFile\GenerateExcelFile\obj\x86\Debug\CreateExcelFile.csproj.CoreCompileInputs.cache
+C:\Program Files\Bootloader\repos\GenerateExcelFile\GenerateExcelFile\obj\x86\Debug\CreateExcelFile.csproj.CopyComplete
+C:\Program Files\Bootloader\repos\GenerateExcelFile\GenerateExcelFile\obj\x86\Debug\CreateExcelFile.exe
+C:\Program Files\Bootloader\repos\GenerateExcelFile\GenerateExcelFile\obj\x86\Debug\CreateExcelFile.pdb
+C:\Program Files\Bootloader\repos\GenerateExcelFile\GenerateExcelFile\obj\x86\Debug\CreateExcelFile.csprojAssemblyReference.cache
